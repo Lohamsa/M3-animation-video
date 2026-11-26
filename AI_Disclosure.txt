@@ -1,0 +1,78 @@
+================================================================================
+AI DISCLOSURE STATEMENT
+M3 Internal Assessment — Animation Video Project
+================================================================================
+
+Student Name     : Lohamsa Vallika
+Student ID       : e25b070627
+Institution      : Newton School of Technology
+Degree / Branch  : B.Tech Computer Science & Engineering (AI/ML)
+Course           : Linear Algebra & Calculus (M3)
+Project Title    : The Gradient — Why Does It Point in the Direction of Steepest Increase?
+Assessment Date  : November 2026
+Assessment Weight: 10%
+
+--------------------------------------------------------------------------------
+1. PURPOSE OF THIS DISCLOSURE
+--------------------------------------------------------------------------------
+In accordance with academic integrity guidelines of the Newton School of Technology
+and the official M3 Animation Video Project instructions, this document provides a
+transparent disclosure of the artificial intelligence tools, software libraries,
+and automated utilities utilized during the development of this project.
+
+--------------------------------------------------------------------------------
+2. AI TOOLS & TECHNOLOGIES UTILIZED
+--------------------------------------------------------------------------------
+The following AI tools and software libraries were employed:
+
+a. Large Language Model Assistance (Gemini / Anthropic Claude):
+   - Project Architecture & Planning: Used for outlining the 6-scene storyboard
+     structure to satisfy the official M3 requirements.
+   - Script Polish: Assisted in drafting conversational, beginner-friendly
+     explanations of partial derivatives, directional derivatives, and dot product
+     theorems.
+   - Manim Code Assistance: Assisted with Manim Community Edition (v0.22.1) syntax,
+     3D camera positioning, surface parametrization, and value tracker animation logic.
+   - Documentation Formatting: Assisted in generating the structured ReportLab Python
+     compilation scripts for the Storyboard, Script, and Mathematical Verification PDFs.
+
+b. Neural Voice Synthesis (Edge-TTS - Microsoft Neural Speech):
+   - Model: `en-US-ChristopherNeural`
+   - Purpose: Generated studio-grade, clear voice-over narration aligned with the
+     educational video pacing.
+
+c. Animation & Media Engines:
+   - Manim Community Edition: Rendered all mathematical visuals and vector animations.
+   - FFmpeg: Muxed individual scene audio with video streams and combined scenes
+     into the final master MP4 video.
+
+--------------------------------------------------------------------------------
+3. STUDENT INDEPENDENT REVIEW & CONTRIBUTIONS
+--------------------------------------------------------------------------------
+While AI tools assisted with code generation and narration synthesis:
+- Topic Selection: The topic "The Gradient — Why Does It Point in the Direction of
+  Steepest Increase?" was selected from the approved M3 syllabus.
+- Mathematical Validation: Every equation, vector calculation, partial derivative,
+  gradient magnitude ($2\sqrt{2}$), directional derivative dot product, and cosine
+  maximization condition was personally calculated, cross-checked, and verified
+  for complete mathematical correctness.
+- Animation Timing & Synchronization: Verified that the animation keyframes,
+  vector movements, equation reveals, and rotating tracker wheels match the spoken
+  explanations without desynchronization.
+- Quality Assurance: Confirmed that the final video duration (5 minutes 44 seconds)
+  complies strictly with the 5–7 minute official constraint, renders at 1920x1080
+  resolution, and includes all required student identifiers on the opening frame
+  and closing credits.
+
+--------------------------------------------------------------------------------
+4. ACADEMIC INTEGRITY DECLARATION
+--------------------------------------------------------------------------------
+I confirm that this project represents an authentic educational production designed
+to explain multivariable calculus principles clearly and visually. All AI assistance
+has been fully declared herein without misrepresentation.
+
+Signed,
+Lohamsa Vallika
+Student ID: e25b070627
+Newton School of Technology
+================================================================================
